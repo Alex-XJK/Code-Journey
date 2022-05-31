@@ -1,1 +1,6 @@
-*.php linguist-language=php
+*.java linguist-language=Java
+*.cpp linguist-language=C++
+*.py linguist-language=Python
+*.php linguist-language=PHP
+*.sql linguist-language=sql
+*.sh linguist-language=shell
