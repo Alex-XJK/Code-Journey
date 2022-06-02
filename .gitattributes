@@ -4,3 +4,4 @@
 *.php linguist-language=PHP
 *.sql linguist-language=sql
 *.sh linguist-language=shell
+*.rb linguist-language=Ruby
