@@ -2,7 +2,7 @@ class Solution {
 
     /**
      * @param Integer $num
-     * @return Integer
+     * @return Integer 
      */
     function numberOfSteps($num) {
         if ($num == 0) {
