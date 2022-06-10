@@ -6,7 +6,9 @@ Record of My ACM / LeetCode Journey
 | id   | title | C++ | Java | Python | php  | Ruby | SQL | bash |
 | ---- | ----- | :--: | :--: | :----: | :--: | :--: | :---: | :--: |
 | 1 | Two Sum | [1](Leetcode-1.%20Two%20Sum@Cpp.cpp) |  |        |      |      | - | - |
+| 3 | Longest Substring Without Repeating Characters |  | [1](Leetcode-3.%20Longest%20Substring%20Without%20Repeating%20Characters@Java.java) | [1](Leetcode-3.%20Longest%20Substring%20Without%20Repeating%20Characters@Python3.py) | | |  |  |
 | 8 | String to Integer (atoi) |      |  | [1](Leetcode-8.%20String%20to%20Integer%20(atoi)@Python3.py) |      |      | - | - |
+| 13 | Roman to Integer | | |  | [1](Leetcode-13.%20Roman%20to%20Integer@PHP.php) | |  |  |
 | 29 | Divide Two Integers |  | [1](Leetcode-29.%20Divide%20Two%20Integers@Java.java) |        |      |      | - | - |
 | 36 | Valid Sudoku |  | [1](Leetcode-36.%20Valid%20Sudoku@Java.java) |        |      |      | - | - |
 | 51 | N-Queens |  | [1](Leetcode-51.%20N-Queens@Java.java) | | | | - | - |
@@ -37,7 +39,7 @@ Record of My ACM / LeetCode Journey
 | 1461 | Check If a String Contains All Binary Codes of Size K | | [1](Leetcode-1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K@Java.java) | | | | - | - |
 | 1480 | Running Sum of 1d Array | | [1](Leetcode-1480.%20Running%20Sum%20of%201d%20Array@Java.java) | [1](Leetcode-1480.%20Running%20Sum%20of%201d%20Array@Python3.py) | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
-| -- | **Total** | **3** | **19** | **6** | **4** | **3** | **7** | **1** |
+| -- | **Total** | **3** | **20** | **7** | **5** | **3** | **7** | **1** |
 
 ## UVa
 
