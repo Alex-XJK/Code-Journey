@@ -15,6 +15,7 @@ Record of My ACM / LeetCode Journey
 | 51 | N-Queens |  | [1](Leetcode-51.%20N-Queens@Java.java) | | | | - | - |
 | 52 | N-Queens II |  | [1](Leetcode-52.%20N-Queens%20II@Java.java) | | | | - | - |
 | 88 | Merge Sorted Array |  | [1](Leetcode-88.%20Merge%20Sorted%20Array@Java.java) | | | | - | - |
+| 120 | Triangle | [1](Leetcode-120.%20Triangle@Cpp.cpp) |  | | | | - | - |
 | 160 | Intersection of Two Linked Lists |  | [1](Leetcode-160.%20Intersection%20of%20Two%20Linked%20Lists@Java.java) | [1](Leetcode-160.%20Intersection%20of%20Two%20Linked%20Lists@Python3.py) | | | - | - |
 | 167 | Two Sum II - Input Array Is Sorted | | | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@Python3.py) | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@PHP.php) | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@Ruby.rb) | - | - |
 | 175 | Combine Two Tables | - | - | - | - | - | [1](Leetcode-175.%20Combine%20Two%20Tables@SQL.sql) | - |
@@ -23,6 +24,7 @@ Record of My ACM / LeetCode Journey
 | 183 | Customers Who Never Order | - | - | - | - | - | [1](Leetcode-183.%20Customers%20Who%20Never%20Order@SQL.sql) | - |
 | 193 | Valid Phone Numbers | - | - | - | - | - | - | [1](Leetcode-193.%20Valid%20Phone%20Numbers@Bash.sh) |
 | 195 | Tenth Line | - | - | - | - | - | - | [1](Leetcode-195.%20Tenth%20Line@Bash.sh) |
+| 197 | Rising Temperature | - | - | - | - | - | [1](Leetcode-197.%20Rising%20Temperature@SQL.sql) | - |
 | 225 | Implement Stack using Queues |  | [1](Leetcode-225.%20Implement%20Stack%20using%20Queues@Java.java) | | | | - | - |
 | 284 | Peeking Iterator |  | [1](Leetcode-284.%20Peeking%20Iterator@Java.java) | | | | - | - |
 | 304 | Range Sum Query 2D - Immutable |  | [1](Leetcode-304.%20Range%20Sum%20Query%202D%20-%20Immutable@Java.java) | | | | - | - |
@@ -43,7 +45,7 @@ Record of My ACM / LeetCode Journey
 | 1658 | Minimum Operations to Reduce X to Zero | | [x](Leetcode-1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero%5BTLE%5D@Java.java) [1](Leetcode-1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero@Java.java) |  | | | - | - |
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
-| -- | **Total (AC)** | **3** | **23** | **7** | **5** | **3** | **7** | **2** |
+| -- | **Total (AC)** | **4** | **23** | **7** | **5** | **3** | **8** | **2** |
 
 ## UVa
 
