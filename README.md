@@ -24,6 +24,7 @@ Record of My ACM / LeetCode Journey
 | 183 | Customers Who Never Order | - | - | - | - | - | [1](Leetcode-183.%20Customers%20Who%20Never%20Order@SQL.sql) | - |
 | 193 | Valid Phone Numbers | - | - | - | - | - | - | [1](Leetcode-193.%20Valid%20Phone%20Numbers@Bash.sh) |
 | 195 | Tenth Line | - | - | - | - | - | - | [1](Leetcode-195.%20Tenth%20Line@Bash.sh) |
+| 196 | Delete Duplicate Emails | - | - | - | - | - | [1](Leetcode-196.%20Delete%20Duplicate%20Emails@SQL.sql) | - |
 | 197 | Rising Temperature | - | - | - | - | - | [1](Leetcode-197.%20Rising%20Temperature@SQL.sql) | - |
 | 225 | Implement Stack using Queues |  | [1](Leetcode-225.%20Implement%20Stack%20using%20Queues@Java.java) | | | | - | - |
 | 284 | Peeking Iterator |  | [1](Leetcode-284.%20Peeking%20Iterator@Java.java) | | | | - | - |
@@ -31,8 +32,10 @@ Record of My ACM / LeetCode Journey
 | 441 | Arranging Coins | | | [1](Leetcode-441.%20Arranging%20Coins@Python3.py) | | | - | - |
 | 535 | Encode and Decode TinyURL | | [1](Leetcode-535.%20Encode%20and%20Decode%20TinyURL@Java.java) | | | | - | - |
 | 551 | Student Attendance Record I | | [1](Leetcode-551.%20Student%20Attendance%20Record%20I@Java.java) | | | | - | - |
+| 583 | Delete Operation for Two Strings | | [1](Leetcode-583.%20Delete%20Operation%20for%20Two%20Strings@Java.java) | | | | - | - |
 | 584 | Find Customer Referee | - | - | - | - | - | [1](Leetcode-584.%20Find%20Customer%20Referee@SQL.sql) | - |
 | 595 | Big Countries | - | - | - | - | - | [1](Leetcode-595.%20Big%20Countries@SQL.sql) | - |
+| 627 | Swap Salary | - | - | - | - | - | [1](Leetcode-627.%20Swap%20Salary@SQL.sql) | - |
 | 669 | Trim a Binary Search Tree | | [1](Leetcode-669.%20Trim%20a%20Binary%20Search%20Tree@Java.java) | | | | - | - |
 | 700 | Search in a Binary Search Tree | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Cpp.cpp) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Java.java) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Python3.py) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@PHP.php) | | - | - |
 | 867 | Transpose Matrix | | [1](Leetcode-867.%20Transpose%20Matrix@Java.java) | | | [1](Leetcode-867.%20Transpose%20Matrix@Ruby.rb) | - | - |
@@ -45,7 +48,8 @@ Record of My ACM / LeetCode Journey
 | 1658 | Minimum Operations to Reduce X to Zero | | [x](Leetcode-1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero%5BTLE%5D@Java.java) [1](Leetcode-1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero@Java.java) |  | | | - | - |
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
-| -- | **Total (AC)** | **4** | **23** | **7** | **5** | **3** | **8** | **2** |
+| 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
+| -- | **Total (AC)** | **4** | **24** | **7** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
