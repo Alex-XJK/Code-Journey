@@ -40,6 +40,7 @@ Record of My ACM / LeetCode Journey
 | 700 | Search in a Binary Search Tree | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Cpp.cpp) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Java.java) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Python3.py) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@PHP.php) | | - | - |
 | 867 | Transpose Matrix | | [1](Leetcode-867.%20Transpose%20Matrix@Java.java) | | | [1](Leetcode-867.%20Transpose%20Matrix@Ruby.rb) | - | - |
 | 1028 | Recover a Tree From Preorder Traversal | | [1](Leetcode-1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal@Java.java) | | | | - | - |
+| 1048 | Longest String Chain | | [1](Leetcode-1048.%20Longest%20String%20Chain@Java.java) | | | | - | - |
 | 1114 | Print in Order | [1](Leetcode-1114.%20Print%20in%20Order@Cpp.cpp) | | | - | - | - | - |
 | 1332 | Remove Palindromic Subsequences | | [1](Leetcode-1332.%20Remove%20Palindromic%20Subsequences@Java.java) |  | [1](Leetcode-1332.%20Remove%20Palindromic%20Subsequences@PHP.php) | [1](Leetcode-1332.%20Remove%20Palindromic%20Subsequences@Ruby.rb) | - | - |
 | 1342 | Number of Steps to Reduce a Number To Zero | | [1](Leetcode-1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero@Java.java) | | [1](Leetcode-1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero@PHP.php) | | - | - |
@@ -49,7 +50,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **4** | **24** | **7** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **4** | **25** | **7** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
