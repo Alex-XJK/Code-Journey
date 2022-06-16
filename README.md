@@ -7,6 +7,7 @@ Record of My ACM / LeetCode Journey
 | ---- | ----- | :--: | :--: | :----: | :--: | :--: | :---: | :--: |
 | 1 | Two Sum | [1](Leetcode-1.%20Two%20Sum@Cpp.cpp) |  |        |      |      | - | - |
 | 3 | Longest Substring Without Repeating Characters |  | [1](Leetcode-3.%20Longest%20Substring%20Without%20Repeating%20Characters@Java.java) | [1](Leetcode-3.%20Longest%20Substring%20Without%20Repeating%20Characters@Python3.py) | | | - | - |
+| 5 | Longest Palindromic Substring | | [1](Leetcode-5.%20Longest%20Palindromic%20Substring@Java.java) |  | | | - | - |
 | 8 | String to Integer (atoi) |      |  | [1](Leetcode-8.%20String%20to%20Integer%20(atoi)@Python3.py) |      |      | - | - |
 | 13 | Roman to Integer | | |  | [1](Leetcode-13.%20Roman%20to%20Integer@PHP.php) | | - | - |
 | 21 | Merge Two Sorted Lists | | [1](Leetcode-21.%20Merge%20Two%20Sorted%20Lists@Java.java) | |  | | - | - |
@@ -50,7 +51,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **4** | **25** | **7** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **4** | **26** | **7** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
