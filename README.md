@@ -51,11 +51,12 @@ Record of My ACM / LeetCode Journey
 | 1342 | Number of Steps to Reduce a Number To Zero | | [1](Leetcode-1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero@Java.java) | | [1](Leetcode-1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero@PHP.php) | | - | - |
 | 1461 | Check If a String Contains All Binary Codes of Size K | | [1](Leetcode-1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K@Java.java) | | | | - | - |
 | 1480 | Running Sum of 1d Array | | [1](Leetcode-1480.%20Running%20Sum%20of%201d%20Array@Java.java) | [1](Leetcode-1480.%20Running%20Sum%20of%201d%20Array@Python3.py) | | | - | - |
+| 1642 | Furthest Building You Can Reach | | [x](Leetcode-1642.%20Furthest%20Building%20You%20Can%20Reach%5BTLE%5D@Java.java) [1](Leetcode-1642.%20Furthest%20Building%20You%20Can%20Reach@Java.java) |  | | | - | - |
 | 1658 | Minimum Operations to Reduce X to Zero | | [x](Leetcode-1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero%5BTLE%5D@Java.java) [1](Leetcode-1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero@Java.java) |  | | | - | - |
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **4** | **30** | **8** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **4** | **31** | **8** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
