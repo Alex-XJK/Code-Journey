@@ -39,6 +39,7 @@ Record of My ACM / LeetCode Journey
 | 595 | Big Countries | - | - | - | - | - | [1](Leetcode-595.%20Big%20Countries@SQL.sql) | - |
 | 627 | Swap Salary | - | - | - | - | - | [1](Leetcode-627.%20Swap%20Salary@SQL.sql) | - |
 | 630 | Course Schedule III |  | [1](Leetcode-630.%20Course%20Schedule%20III@Java.java) |  |  |  | - | - |
+| 665 | Non-decreasing Array | |  | [1](Leetcode-665.%20Non-decreasing%20Array@Python3.py) | | | - | - |
 | 669 | Trim a Binary Search Tree | | [1](Leetcode-669.%20Trim%20a%20Binary%20Search%20Tree@Java.java) | | | | - | - |
 | 700 | Search in a Binary Search Tree | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Cpp.cpp) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Java.java) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@Python3.py) | [1](Leetcode-700.%20Search%20in%20a%20Binary%20Search%20Tree@PHP.php) | | - | - |
 | 745 | Prefix and Suffix Search |  | [1](Leetcode-745.%20Prefix%20and%20Suffix%20Search@Java.java) |  |  | | - | - |
@@ -59,7 +60,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **5** | **34** | **9** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **5** | **34** | **10** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
