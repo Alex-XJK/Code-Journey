@@ -50,6 +50,7 @@ Record of My ACM / LeetCode Journey
 | 820 | Short Encoding of Words | | [1](Leetcode-820.%20Short%20Encoding%20of%20Words@Java.java) | [1](Leetcode-820.%20Short%20Encoding%20of%20Words@Python3.py) | | | - | - |
 | 867 | Transpose Matrix | | [1](Leetcode-867.%20Transpose%20Matrix@Java.java) | | | [1](Leetcode-867.%20Transpose%20Matrix@Ruby.rb) | - | - |
 | 968 | Binary Tree Cameras | | [1](Leetcode-968.%20Binary%20Tree%20Cameras@Java.java) | | |  | - | - |
+| 990 | Satisfiability of Equality Equations | | [1](Leetcode-990.%20Satisfiability%20of%20Equality%20Equations@Java.java) | | |  | - | - |
 | 1028 | Recover a Tree From Preorder Traversal | | [1](Leetcode-1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal@Java.java) | | | | - | - |
 | 1048 | Longest String Chain | | [1](Leetcode-1048.%20Longest%20String%20Chain@Java.java) | | | | - | - |
 | 1114 | Print in Order | [1](Leetcode-1114.%20Print%20in%20Order@Cpp.cpp) | | | - | - | - | - |
@@ -67,7 +68,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **5** | **40** | **11** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **5** | **41** | **11** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
