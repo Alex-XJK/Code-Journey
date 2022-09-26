@@ -40,6 +40,7 @@ Record of My ACM / LeetCode Journey
 | 583 | Delete Operation for Two Strings | | [1](Leetcode-583.%20Delete%20Operation%20for%20Two%20Strings@Java.java) | | | | - | - |
 | 584 | Find Customer Referee | - | - | - | - | - | [1](Leetcode-584.%20Find%20Customer%20Referee@SQL.sql) | - |
 | 595 | Big Countries | - | - | - | - | - | [1](Leetcode-595.%20Big%20Countries@SQL.sql) | - |
+| 622 | Design Circular Queue |  | [1](Leetcode-622.%20Design%20Circular%20Queue@Java.java) |  |  |  | - | - |
 | 627 | Swap Salary | - | - | - | - | - | [1](Leetcode-627.%20Swap%20Salary@SQL.sql) | - |
 | 630 | Course Schedule III |  | [1](Leetcode-630.%20Course%20Schedule%20III@Java.java) |  |  |  | - | - |
 | 665 | Non-decreasing Array | |  | [1](Leetcode-665.%20Non-decreasing%20Array@Python3.py) | | | - | - |
@@ -66,7 +67,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **5** | **39** | **11** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **5** | **40** | **11** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
