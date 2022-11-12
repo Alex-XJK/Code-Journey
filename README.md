@@ -17,12 +17,14 @@ Record of My ACM / LeetCode Journey
 | 52 | N-Queens II |  | [1](Leetcode-52.%20N-Queens%20II@Java.java) | | | | - | - |
 | 88 | Merge Sorted Array |  | [1](Leetcode-88.%20Merge%20Sorted%20Array@Java.java) | | | | - | - |
 | 120 | Triangle | [1](Leetcode-120.%20Triangle@Cpp.cpp) |  | | | | - | - |
+| 122 | Best Time to Buy and Sell Stock II | | [1](Leetcode-122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II@Java.java) | | | | - | - |
 | 160 | Intersection of Two Linked Lists |  | [1](Leetcode-160.%20Intersection%20of%20Two%20Linked%20Lists@Java.java) | [1](Leetcode-160.%20Intersection%20of%20Two%20Linked%20Lists@Python3.py) | | | - | - |
 | 167 | Two Sum II - Input Array Is Sorted | | | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@Python3.py) | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@PHP.php) | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@Ruby.rb) | - | - |
 | 175 | Combine Two Tables | - | - | - | - | - | [1](Leetcode-175.%20Combine%20Two%20Tables@SQL.sql) | - |
 | 181 | Employees Earning More Than Their Managers | - | - | - | - | - | [1](Leetcode-181.%20Employees%20Earning%20More%20Than%20Their%20Managers@SQL.sql) | - |
 | 182 | Duplicate Emails | - | - | - | - | - | [1](Leetcode-182.%20Duplicate%20Emails@SQL.sql) | - |
 | 183 | Customers Who Never Order | - | - | - | - | - | [1](Leetcode-183.%20Customers%20Who%20Never%20Order@SQL.sql) | - |
+| 189 | Rotate Array | | | [1](Leetcode-189.%20Rotate%20Array@Python3.py) | | | - | - |
 | 193 | Valid Phone Numbers | - | - | - | - | - | - | [1](Leetcode-193.%20Valid%20Phone%20Numbers@Bash.sh) |
 | 195 | Tenth Line | - | - | - | - | - | - | [1](Leetcode-195.%20Tenth%20Line@Bash.sh) |
 | 196 | Delete Duplicate Emails | - | - | - | - | - | [1](Leetcode-196.%20Delete%20Duplicate%20Emails@SQL.sql) | - |
@@ -68,7 +70,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **5** | **41** | **11** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **5** | **42** | **12** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
