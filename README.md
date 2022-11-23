@@ -3,14 +3,15 @@ Record of My ACM / LeetCode Journey
 
 ## LeetCode
 
-| id   | title | C++ | Java | Python | php  | Ruby | SQL | bash |
+| id   | title | C/C++ | Java | Python | php  | Ruby | SQL | bash |
 | ---- | ----- | :--: | :--: | :----: | :--: | :--: | :---: | :--: |
-| 1 | Two Sum | [1](Leetcode-1.%20Two%20Sum@Cpp.cpp) |  |        |      |      | - | - |
+| 1 | Two Sum | [1](Leetcode-1.%20Two%20Sum@Cpp.cpp) | [1](Leetcode-1.%20Two%20Sum@Java.java) |        |      |      | - | - |
 | 3 | Longest Substring Without Repeating Characters |  | [1](Leetcode-3.%20Longest%20Substring%20Without%20Repeating%20Characters@Java.java) | [1](Leetcode-3.%20Longest%20Substring%20Without%20Repeating%20Characters@Python3.py) | | | - | - |
 | 5 | Longest Palindromic Substring | | [1](Leetcode-5.%20Longest%20Palindromic%20Substring@Java.java) |  | | | - | - |
 | 8 | String to Integer (atoi) |      |  | [1](Leetcode-8.%20String%20to%20Integer%20(atoi)@Python3.py) |      |      | - | - |
 | 13 | Roman to Integer | | |  | [1](Leetcode-13.%20Roman%20to%20Integer@PHP.php) | | - | - |
 | 21 | Merge Two Sorted Lists | | [1](Leetcode-21.%20Merge%20Two%20Sorted%20Lists@Java.java) | |  | | - | - |
+| 28 | Find the Index of the First Occurrence in a String | [1](Leetcode-28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String@C.c) |  | |  | | - | - |
 | 29 | Divide Two Integers |  | [1](Leetcode-29.%20Divide%20Two%20Integers@Java.java) |        |      |      | - | - |
 | 36 | Valid Sudoku |  | [1](Leetcode-36.%20Valid%20Sudoku@Java.java) |        |      |      | - | - |
 | 51 | N-Queens |  | [1](Leetcode-51.%20N-Queens@Java.java) | | | | - | - |
@@ -70,7 +71,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **5** | **42** | **12** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **6** | **43** | **12** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
