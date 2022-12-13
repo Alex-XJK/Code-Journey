@@ -21,6 +21,7 @@ Record of My ACM / LeetCode Journey
 | 98 | Validate Binary Search Tree |  | [1](Leetcode-98.%20Validate%20Binary%20Search%20Tree@Java.java) | | | | - | - |
 | 120 | Triangle | [1](Leetcode-120.%20Triangle@Cpp.cpp) |  | | | | - | - |
 | 122 | Best Time to Buy and Sell Stock II | | [1](Leetcode-122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II@Java.java) | | | | - | - |
+| 155 | Min Stack | | [1](Leetcode-155.%20Min%20Stack@Java.java) | | | | - | - |
 | 160 | Intersection of Two Linked Lists |  | [1](Leetcode-160.%20Intersection%20of%20Two%20Linked%20Lists@Java.java) | [1](Leetcode-160.%20Intersection%20of%20Two%20Linked%20Lists@Python3.py) | | | - | - |
 | 167 | Two Sum II - Input Array Is Sorted | | | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@Python3.py) | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@PHP.php) | [1](Leetcode-167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted@Ruby.rb) | - | - |
 | 175 | Combine Two Tables | - | - | - | - | - | [1](Leetcode-175.%20Combine%20Two%20Tables@SQL.sql) | - |
@@ -73,7 +74,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **6** | **45** | **13** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **6** | **46** | **13** | **5** | **3** | **11** | **2** |
 
 ## UVa
 
