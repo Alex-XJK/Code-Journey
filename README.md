@@ -12,6 +12,7 @@ Record of My ACM / LeetCode Journey
 | 13 | Roman to Integer | | |  | [1](Leetcode-13.%20Roman%20to%20Integer@PHP.php) | | - | - |
 | 20 | Valid Parentheses | | [1](Leetcode-20.%20Valid%20Parentheses@Java.java) | [1](Leetcode-20.%20Valid%20Parentheses@Python3.py) |  | | - | - |
 | 21 | Merge Two Sorted Lists | | [1](Leetcode-21.%20Merge%20Two%20Sorted%20Lists@Java.java) | |  | | - | - |
+| 26 | Remove Duplicates from Sorted Array | | [1](Leetcode-26.%20Remove%20Duplicates%20from%20Sorted%20Array@Java.java) | | [1](Leetcode-26.%20Remove%20Duplicates%20from%20Sorted%20Array@PHP.php) | | - | - |
 | 28 | Find the Index of the First Occurrence in a String | [1](Leetcode-28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String@C.c) |  | |  | | - | - |
 | 29 | Divide Two Integers |  | [1](Leetcode-29.%20Divide%20Two%20Integers@Java.java) |        |      |      | - | - |
 | 36 | Valid Sudoku |  | [1](Leetcode-36.%20Valid%20Sudoku@Java.java) |        |      |      | - | - |
@@ -74,7 +75,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **6** | **46** | **13** | **5** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **6** | **47** | **13** | **6** | **3** | **11** | **2** |
 
 ## UVa
 
