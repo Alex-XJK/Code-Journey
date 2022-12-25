@@ -35,6 +35,7 @@ Record of My ACM / LeetCode Journey
 | 196 | Delete Duplicate Emails | - | - | - | - | - | [1](Leetcode-196.%20Delete%20Duplicate%20Emails@SQL.sql) | - |
 | 197 | Rising Temperature | - | - | - | - | - | [1](Leetcode-197.%20Rising%20Temperature@SQL.sql) | - |
 | 215 | Kth Largest Element in an Array | [1](Leetcode-215.%20Kth%20Largest%20Element%20in%20an%20Array@Cpp.cpp) | [1](Leetcode-215.%20Kth%20Largest%20Element%20in%20an%20Array@Java.java) | [1](Leetcode-215.%20Kth%20Largest%20Element%20in%20an%20Array@Python3.py) |  |  | - | - |
+| 217 | Contains Duplicate | [1](Leetcode-217.%20Contains%20Duplicate@Cpp.cpp) | [1](Leetcode-217.%20Contains%20Duplicate@Java.java) | | | | - | - |
 | 225 | Implement Stack using Queues |  | [1](Leetcode-225.%20Implement%20Stack%20using%20Queues@Java.java) | | | | - | - |
 | 242 | Valid Anagram | | [1](Leetcode-242.%20Valid%20Anagram@Java.java) | | | | - | - |
 | 284 | Peeking Iterator |  | [1](Leetcode-284.%20Peeking%20Iterator@Java.java) | | | | - | - |
@@ -75,7 +76,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **6** | **47** | **13** | **6** | **3** | **11** | **2** |
+| -- | **Total (AC)** | **7** | **48** | **13** | **6** | **3** | **11** | **2** |
 
 ## UVa
 
