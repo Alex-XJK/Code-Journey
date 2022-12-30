@@ -40,6 +40,7 @@ Record of My ACM / LeetCode Journey
 | 242 | Valid Anagram | | [1](Leetcode-242.%20Valid%20Anagram@Java.java) | | | | - | - |
 | 284 | Peeking Iterator |  | [1](Leetcode-284.%20Peeking%20Iterator@Java.java) | | | | - | - |
 | 304 | Range Sum Query 2D - Immutable |  | [1](Leetcode-304.%20Range%20Sum%20Query%202D%20-%20Immutable@Java.java) | | | | - | - |
+| 387 | First Unique Character in a String | | [1](Leetcode-387.%20First%20Unique%20Character%20in%20a%20String@Java.java) | | | | - | - |
 | 406 | Queue Reconstruction by Height | |  | [1](Leetcode-406.%20Queue%20Reconstruction%20by%20Height@Python3.py) | | | - | - |
 | 441 | Arranging Coins | | | [1](Leetcode-441.%20Arranging%20Coins@Python3.py) | | | - | - |
 | 462 | Minimum Moves to Equal Array Elements II | | [1](Leetcode-462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II@Java.java) |  | | | - | - |
@@ -76,7 +77,7 @@ Record of My ACM / LeetCode Journey
 | 1695 | Maximum Erasure Value | | [1](Leetcode-1695.%20Maximum%20Erasure%20Value@Java.java) | | | | - | - |
 | 1757 | Recyclable and Low Fat Products | - | - | - | - | - | [1](Leetcode-1757.%20Recyclable%20and%20Low%20Fat%20Products@SQL.sql) | - |
 | 1873 | Calculate Special Bonus | - | - | - | - | - | [1](Leetcode-1873.%20Calculate%20Special%20Bonus@SQL.sql) | - |
-| -- | **Total (AC)** | **7** | **48** | **13** | **6** | **3** | **11** | **2** |
+| -- | **Total (AC): 72** | **7** | **49** | **13** | **6** | **3** | **11** | **2** |
 
 ## UVa
 
